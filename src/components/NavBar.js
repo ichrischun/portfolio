@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import LinkedIn from '../assets/LinkedIn.png';
+import Chris_Lines from '../assets/Chris_Lines.png';
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
@@ -10,9 +10,9 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
+    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#353535] text-gray-300">
       <div>
-        <img src={LinkedIn} alt="Linked Pic" style={{ width: '50px' }} />
+        <img src={Chris_Lines} alt="Header Logo" style={{ width: '180px' }} />
       </div>
 
       <ul className="hidden md:flex">
