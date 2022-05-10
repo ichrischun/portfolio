@@ -28,7 +28,7 @@ const Skills = () => {
           </div>
           <div className="shadow-md bg-[#353535] shadow-[#353535] hover:scale-110 duration-300 pt-5">
             <img className="w-20 mx-auto" src={Postgres} alt="PostgresLogo" />
-            <p className="my-4 text-[#FFFFFF]">PostgresSQL</p>
+            <p className="my-4 text-[#FFFFFF]">PostgreSQL</p>
           </div>
           <div className="shadow-md bg-[#353535] shadow-[#353535] hover:scale-110 duration-300 pt-5">
             <img className="w-20 mx-auto" src={Nodejs} alt="NodeLogo" />

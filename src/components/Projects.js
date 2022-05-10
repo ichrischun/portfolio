@@ -1,5 +1,7 @@
 import React from 'react';
 import Pawgwarts from '../assets/Pawgwarts.png';
+import Stackbot from '../assets/Stackbot.png';
+import NFTShopper from '../assets/NFTShopper.png';
 
 const Projects = () => {
   return (
@@ -13,13 +15,13 @@ const Projects = () => {
             Projects
           </p>
         </div>
-        <div className="w-full grid sm:grid-cols-2 md:grid-cols-3 gap-4 text-center p-8 m-4">
+        <div className="w-full grid sm:grid-cols-2 md:grid-cols-3 gap-4 text-center p-8 m-4 justify-center align-middle">
           {/* card */}
           <div className="shadow-md bg-[#353535] shadow-[#353535] hover:scale-110 duration-300 w-[450px] h-[300px] ">
             <img
               className="w-full h-full mx-auto"
               src={Pawgwarts}
-              alt="JSLogo"
+              alt="Pawgwarts"
             />
             <div className="bg-[#D9D9D9] text-[#284B63] py-1">
               <p className="my-1 text-2xl">Pawgwarts</p>
@@ -42,13 +44,17 @@ const Projects = () => {
           <div className="shadow-md bg-[#353535] shadow-[#353535] hover:scale-110 duration-300 w-[450px] h-[300px]">
             <img
               className="w-full h-full mx-auto"
-              src={Pawgwarts}
-              alt="JSLogo"
+              src={NFTShopper}
+              alt="NFTShopper"
             />
             <div className="bg-[#D9D9D9] text-[#284B63] py-1">
-              <p className="my-1 text-2xl">Title</p>
-              <p className="my-1">Description</p>
-              <a href="https://www.linkedin.com/in/ichrischun/">
+              <p className="my-1 text-2xl">NFT Shopper</p>
+              <p className="my-1 mx-3">
+                Developed an e-commerce site for mock-NFTs. Users are able to
+                add specific NFTs to their cart, checkout, and create an
+                account.
+              </p>
+              <a href="https://github.com/Treecko-Trackers/NFTShopper">
                 <button className="text-center rounded-lg px-4 py-1 m-1 bg-[#353535] text-[#FFFFFF]">
                   Code
                 </button>
@@ -60,13 +66,18 @@ const Projects = () => {
           <div className="shadow-md bg-[#353535] shadow-[#353535] hover:scale-110 duration-300 w-[450px] h-[300px]">
             <img
               className="w-full h-full mx-auto"
-              src={Pawgwarts}
-              alt="JSLogo"
+              src={Stackbot}
+              alt="Stackbot"
             />
             <div className="bg-[#D9D9D9] text-[#284B63] py-1">
-              <p className="my-1 text-2xl">Title</p>
-              <p className="my-1">Description</p>
-              <a href="https://www.linkedin.com/in/ichrischun/">
+              <p className="my-1 text-2xl">StackBot</p>
+              <p className="my-1 mx-3">
+                A RESTful web application that allows you to manage your robots
+                and projects. Each robot may be assigned to several projects at
+                a time. This project was created using React, Redux, Express,
+                Node.js, PostgreSQL, Sequelize, and Bootstrap.
+              </p>
+              <a href="https://github.com/ichrischun/stackbot">
                 <button className="text-center rounded-lg px-4 py-1 m-1 bg-[#353535] text-[#FFFFFF]">
                   Code
                 </button>
