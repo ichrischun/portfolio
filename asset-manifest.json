@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f5a7a087.css",
-    "main.js": "/portfolio/static/js/main.4b00bdac.js",
+    "main.css": "/portfolio/static/css/main.1fa71da8.css",
+    "main.js": "/portfolio/static/js/main.8ed99acc.js",
     "static/media/Stackbot.png": "/portfolio/static/media/Stackbot.b42f05dc8a211d99b349.png",
     "static/media/Pawgwarts2.png": "/portfolio/static/media/Pawgwarts2.82499d3b533cc37b321a.png",
     "static/media/NFTShopper.png": "/portfolio/static/media/NFTShopper.7d8a1301b101b3d91893.png",
@@ -15,11 +15,11 @@
     "static/media/Firebase.png": "/portfolio/static/media/Firebase.cf4e8b411507240e7a7d.png",
     "static/media/CSS.png": "/portfolio/static/media/CSS.0233016600a405030533.png",
     "index.html": "/portfolio/index.html",
-    "main.f5a7a087.css.map": "/portfolio/static/css/main.f5a7a087.css.map",
-    "main.4b00bdac.js.map": "/portfolio/static/js/main.4b00bdac.js.map"
+    "main.1fa71da8.css.map": "/portfolio/static/css/main.1fa71da8.css.map",
+    "main.8ed99acc.js.map": "/portfolio/static/js/main.8ed99acc.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5a7a087.css",
-    "static/js/main.4b00bdac.js"
+    "static/css/main.1fa71da8.css",
+    "static/js/main.8ed99acc.js"
   ]
 }
