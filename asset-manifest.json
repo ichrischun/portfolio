@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1fa71da8.css",
-    "main.js": "/portfolio/static/js/main.8ed99acc.js",
+    "main.js": "/portfolio/static/js/main.1ce54c6f.js",
     "static/media/Stackbot.png": "/portfolio/static/media/Stackbot.b42f05dc8a211d99b349.png",
     "static/media/Pawgwarts2.png": "/portfolio/static/media/Pawgwarts2.82499d3b533cc37b321a.png",
     "static/media/NFTShopper.png": "/portfolio/static/media/NFTShopper.7d8a1301b101b3d91893.png",
     "static/media/LinkedInCircle.png": "/portfolio/static/media/LinkedInCircle.2ceb4de65c35af83a241.png",
     "static/media/Postgres.png": "/portfolio/static/media/Postgres.5a13e254fb0c5ae14652.png",
     "static/media/React_Logo.png": "/portfolio/static/media/React_Logo.8a6fc0a24a800d1e0f4a.png",
-    "static/media/Chris_Chun_Resume.pdf": "/portfolio/static/media/Chris_Chun_Resume.d5fc904271db74af32df.pdf",
+    "static/media/Chris_Chun_Resume.pdf": "/portfolio/static/media/Chris_Chun_Resume.6a7aeb06b2fca973d394.pdf",
     "static/media/JavaScript.png": "/portfolio/static/media/JavaScript.42763b293014dd8309c4.png",
     "static/media/Redux.png": "/portfolio/static/media/Redux.c9be37e0fece29c624b0.png",
     "static/media/HTML.png": "/portfolio/static/media/HTML.397540dec969b31fd37c.png",
@@ -16,10 +16,10 @@
     "static/media/CSS.png": "/portfolio/static/media/CSS.0233016600a405030533.png",
     "index.html": "/portfolio/index.html",
     "main.1fa71da8.css.map": "/portfolio/static/css/main.1fa71da8.css.map",
-    "main.8ed99acc.js.map": "/portfolio/static/js/main.8ed99acc.js.map"
+    "main.1ce54c6f.js.map": "/portfolio/static/js/main.1ce54c6f.js.map"
   },
   "entrypoints": [
     "static/css/main.1fa71da8.css",
-    "static/js/main.8ed99acc.js"
+    "static/js/main.1ce54c6f.js"
   ]
 }
