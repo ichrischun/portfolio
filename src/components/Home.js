@@ -17,7 +17,7 @@ const Home = () => {
         <div className="mx-auto pb-[80px] text-center">
           <p className="text-[#D9D9D9] py-10 text-2xl ">Hi! My name is</p>
           <h1 className="text-4xl sm:text-7xl font-bold text-[#3C6E71] ">
-            CHRIS CHUN
+            CHRIS K. CHUN
           </h1>
           <p className="text-[#FFFFFF] py-10 ">
             - Full Stack Software Engineer -
